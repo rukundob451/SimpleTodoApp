@@ -6,7 +6,7 @@ SimpleTodo App is an android app that allows building a todo list and basic todo
 
 Submitted by: BENJAMIN RUKUNDO
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
