@@ -29,7 +29,7 @@ I would add a calender such that a user can be able to add items on a specific d
 
 Here's a walkthrough of implemented user stories:
 
-<img src='"C:\Users\SENIOR PAUL\AppData\Local\VirtualStore\Program Files (x86)\LICEcap\videoWalkThroughOfSimpleTodoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ybLDeVN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
